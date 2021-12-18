@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.winner {
+  height: 5rem;
+  width: 5rem;
+  background: green;
+  color: white;
+}
+.container {
+  /* display: flex; */
+  height: 80vmin;
+}
+.dice-container {
+  display: inline-block;
+}
+.dice-img {
+  zoom: 0.2;
+}
